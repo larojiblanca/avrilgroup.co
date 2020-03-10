@@ -1,0 +1,7 @@
+.rev-btn:hover {
+	background-color:#000;
+}
+
+.home .mcb-section .mcb-column .image_wrapper img, .services {
+	max-width:88px !important;
+}
